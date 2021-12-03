@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/Article.module.css"],"names":[],"mappings":"AAAA,sBACE,iBACF,CAEA,8BACE,iBACF,CAEA,0BACE,cAAe,CACf,kBACF","file":"main.0768b3b9.chunk.css","sourcesContent":[".title {\n  text-align: center;\n}\n\n.dateOfArticle {\n  font-style: italic;\n}\n\n.paragraph {\n  font-size: 20px;\n  text-align: justify;\n}\n"]}
